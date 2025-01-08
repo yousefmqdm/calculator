@@ -1,2 +1,2 @@
 # calculator
-its just a simple calculator that I maid (html, css, js)
+it's just a simple calculator that I maid (html, css, js)
